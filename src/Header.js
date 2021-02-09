@@ -5,7 +5,7 @@ export default class PizzaHeader extends React.Component {
     render() {
         return (
             <div>
-                < span >
+                <span>
                     <img alt='logo' src='../Logo.png' />
                 </span>
                 <span>
