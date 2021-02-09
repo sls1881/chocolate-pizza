@@ -1,5 +1,5 @@
 import React from 'react';
-import SocialMediaImages from './SocialMedia.js';
+import SocialMediaImages from './SocialMedia';
 
 export default class PizzaHeader extends React.Component {
     render() {
